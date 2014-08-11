@@ -20,7 +20,9 @@ $ docker run -it --rm shouldbee/coffeescript coffee
 
 Make your code at docker host.
 
-```coffeescript hello.coffee
+hello.coffee:
+
+```coffeescript
 console.log("Hello World!")
 ```
 
